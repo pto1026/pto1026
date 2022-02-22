@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pto1026
-- 👀 I’m interested in everything python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python developments
+- 👀 I’m interested in everything MERN
+- 🌱 I’m currently learning MongoDB, jQuery
+- 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me? Email me at pto1026@gmail.com
 
 <!---
