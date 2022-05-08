@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pto1026
 - 👀 I’m interested in everything MERN
-- 🌱 I’m currently learning MongoDB, jQuery
+- 🌱 I’m currently learning more about MongoDB, Nodejs, REST, GraphQL, and other server-side JavaScript technologies
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me? Email me at pto1026@gmail.com
 
